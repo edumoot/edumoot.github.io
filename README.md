@@ -1,0 +1,1 @@
+echo "# Yachao Zhu's Personal Website\n\nThis repository contains the source code for my personal academic website." > README.md
