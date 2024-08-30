@@ -1,1 +1,2 @@
 echo "_site\n.sass-cache\n.jekyll-cache\n.jekyll-metadata" > .gitignore.DS_Store
+.DS_Store

@@ -17,6 +17,10 @@ I am a 4th year PhD student in Computer Science at the University of Leeds, spec
 
 ## Contact
 
-- Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
-- GitHub: [{{ site.author.github }}](https://github.com/{{ site.author.github }})
-- LinkedIn: [Yachao Zhu](https://www.linkedin.com/in/{{ site.author.linkedin }})
+## Contact
+
+<i class="fas fa-envelope"></i> [{{ site.author.email }}](mailto:{{ site.author.email }})
+
+<i class="fab fa-github"></i> [GitHub](https://github.com/{{ site.author.github }})
+
+<i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/{{ site.author.linkedin }})
