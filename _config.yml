@@ -3,18 +3,15 @@ description: PhD Student in Computer Science at University of Leeds
 url: "https://edumoot.github.io"
 baseurl: ""
 
-# Build settings
 markdown: kramdown
 include: ['_pages']
 
-# Author information
 author:
   name: Yachao Zhu
   email: scyzhu@leeds.ac.uk
   github: edumoot
-  linkedin: zhuyachao@yahoo.com
+  linkedin: zhu-yachao-513a38a5
 
-# Navigation
 nav_pages:
   - title: About
     url: /

@@ -26,5 +26,5 @@ permalink: /cv/
 ## Skills
 
 - Programming Languages: C, C++, Python
-- Software Testing: [List specific tools and methodologies]
-- Code Analysis Techniques: [List specific techniques]
+- Software Testing: 
+- Code Analysis Techniques: Static Analysis and Dynamic Anlaysis
