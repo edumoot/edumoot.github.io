@@ -16,7 +16,6 @@ My research focuses on debug information, particularly applying random testing a
 - Code Analysis Techniques
 - Bug Detection and Prevention
 
-## Contact
 
 ## Contact
 
