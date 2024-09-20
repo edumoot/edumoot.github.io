@@ -6,12 +6,13 @@ permalink: /
 
 ![Yachao Zhu]({{ '/assets/images/profile-picture.jpg' | relative_url }}){: .profile-picture}
 
-I am a 4th year PhD student in Computer Science at the University of Leeds, specializing in software testing and software reliability. My research is focused on applying code analysis techniques to detect bugs associated with compilation, debugging, and debug information, aiming to improve software reliability.
+My name is YaChao Zhu. I am a PhD student at the [School of Computer Science](https://eps.leeds.ac.uk/computing) at the University of Leeds. I work with [Prof. Zheng Wang](https://zwang4.github.io).
+
+My research focuses on debug information, particularly applying random testing and code analysis techniques to detect bugs associated with compiler, debugger, and debug information. My main project detected more than 20 bugs in LLVM.
 
 ## Research Interests
 
 - Software Testing
-- Software Reliability
 - Code Analysis Techniques
 - Bug Detection and Prevention
 
