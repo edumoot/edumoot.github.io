@@ -25,6 +25,6 @@ permalink: /cv/
 
 ## Skills
 
-- Programming Languages: C, C++, Python
-- Software Testing: 
+- Programming Languages: Assembly, C, C++, Python
+- Software Testing: Debug information in the context of LLVM
 - Code Analysis Techniques: Static Analysis and Dynamic Anlaysis
